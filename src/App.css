@@ -1,0 +1,136 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.banner-style{
+  background-color: black;
+  color: white
+  }
+.vehicle{
+width: 21.000347137451172px;
+height: 12.904118537902832px;
+top: 15px;
+left: 90px;
+border: 0.4000000059604645px;
+background: linear-gradient(0deg, #191919, #191919),linear-gradient(0deg, #626262, #626262);
+border: 0.4px solid #191919
+
+}
+.rectangle-28{
+  width: 1455px;
+height: 66px;
+top: 2082px;
+left: -9px;
+background: #000000;
+}
+.rectangle-27{
+  display: block;
+  width: 1440px !important;
+height: 42px !important;
+background: #1A1A1A;
+}
+.banner{
+  align-items: center;
+  align-content: center;
+  margin-top: 21px;
+}
+.banner-comp0{
+  display: block;
+  position: fixed;
+  /* flex-direction: row; */
+  width: 76px;
+height: 18px;
+top: 13px;
+left: 90px;
+/* font-family: Poppins !important; */
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+/* color: #626262; */
+}
+.banner-comp{
+  display: block;
+  position: fixed;
+  /* flex-direction: row; */
+  width: 76px;
+height: 18px;
+top: 13px;
+left: 118px;
+font-family: Poppins !important;
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+color: #626262;
+}
+.banner-comp1{
+  display: block;
+  position: fixed;
+  width: 109px;
+height: 15px;
+top: 13px;
+left: 205px;
+font-family: Poppins;
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+color: #626262;
+
+}
+.banner-comp2{
+  display: block;
+  position: fixed;
+  width: 109px;
+height: 15px;
+top: 13px;
+left: 222px;
+font-family: Poppins;
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+color: #626262;
+
+}
+  
